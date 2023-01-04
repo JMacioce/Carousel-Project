@@ -1,2 +1,2 @@
-# Carousel-Template
-Creating a carousel template
+# Carousel Template
+Creating a carousel template using bootstrap
